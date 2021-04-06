@@ -1,5 +1,5 @@
 # TMDBClient
-This is a client app for the api https://api.themoviedb.org/3 using Android. Room database was used for local storage and Retrofit was used as the REST client to retrieve JSON data from the api. This app provides top 20 popular movies, tv shows and artists.
+This is a client app for the api https://api.themoviedb.org/3 using Android. Room database was used for local storage and Retrofit was used as the REST client to retrieve JSON data from the api. This app provides top 20 popular movies, tv shows and artists. MVVM clean architecture was used.
 ---
 
 <table>
